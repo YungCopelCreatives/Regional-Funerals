@@ -1,0 +1,6 @@
+{
+  "name": "Regional Funerals",
+  "description": "Premium minimalist web portal for Regional Funerals, featuring intuitive mobile-first navigation, SADC repatriation services, burial schemes with updated pricing, and policy document request system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
